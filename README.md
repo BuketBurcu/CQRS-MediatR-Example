@@ -1,2 +1,3 @@
 # CQRS-MediatR-Example
-The CQRS (Command Query Responsibility Segregation) patten is an example .Net Core project created using the MediatR library.
+The Project is  example .Net Core project created using the CQRS (Command Query Responsibility Segregation) pattern with MediatR library.
+
